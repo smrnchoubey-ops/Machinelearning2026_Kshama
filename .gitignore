@@ -1,0 +1,14 @@
+# Dataset files (ignored as requested)
+*.csv
+placement.csv
+
+# Python Bytecode & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Virtual Environments
+venv/
+env/
+.env
